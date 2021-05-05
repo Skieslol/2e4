@@ -4,7 +4,7 @@
 ### Languages
 <img align="left" alt="C#" width="26px" src="https://letzgro.net/wp-content/uploads/2016/06/%D0%A1-programming-language-1-300x300.png"/>
 <img align="left" alt="PY" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"/>
-i am bad at cpp but good at python 
+i am bad at cs but good at python 
 <br />
 <br />
 <p>i just sniped a 3 letter name lolol</p>
